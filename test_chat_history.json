@@ -1,0 +1,150 @@
+{
+    "chat_history": [
+      {
+        "sender": "user",
+        "message": "Hey, did you see the new Marvel movie? It's amazing!",
+        "time": "2024-03-16T09:30:00Z"
+      },
+      {
+        "sender": "friend",
+        "message": "No, I haven't yet! I heard it's really good though. You liked it?",
+        "time": "2024-03-16T09:31:00Z"
+      },
+      {
+        "sender": "user",
+        "message": "Loved it! The action scenes were epic. Definitely recommend it.",
+        "time": "2024-03-16T09:32:00Z"
+      },
+      {
+        "sender": "friend",
+        "message": "I'll check it out this weekend then. By the way, have you tried the new vegan restaurant downtown?",
+        "time": "2024-03-16T10:00:00Z"
+      },
+      {
+        "sender": "user",
+        "message": "Yes, went there last week. Honestly, not my cup of tea. I miss the flavors in non-vegan food.",
+        "time": "2024-03-16T10:02:00Z"
+      },
+      {
+        "sender": "friend",
+        "message": "Ah, got it. I've been trying to eat more plant-based lately. Found some dishes I really like.",
+        "time": "2024-03-16T10:05:00Z"
+      },
+      {
+        "sender": "user",
+        "message": "That's great for you! I just can't seem to enjoy it as much.",
+        "time": "2024-03-16T10:07:00Z"
+      },
+      {
+        "sender": "friend",
+        "message": "Changing subjects, are you still up for hiking this weekend?",
+        "time": "2024-03-16T15:00:00Z"
+      },
+      {
+        "sender": "user",
+        "message": "Absolutely! Nature is my escape. Can't wait.",
+        "time": "2024-03-16T15:02:00Z"
+      },
+      {
+        "sender": "friend",
+        "message": "Same here. It's going to be refreshing. Oh, did you finish reading 'The Night Circus'?",
+        "time": "2024-03-16T15:30:00Z"
+      },
+      {
+        "sender": "user",
+        "message": "Yes, and it's now one of my favorite books. The imagery and storyline are captivating.",
+        "time": "2024-03-16T15:32:00Z"
+      },
+      {
+        "sender": "friend",
+        "message": "I'll borrow it from you then. I'm always on the lookout for good book recommendations.",
+        "time": "2024-03-16T15:35:00Z"
+      },
+      {
+        "sender": "user",
+        "message": "Sure, you'll love it. Also, are you joining the yoga class next week?",
+        "time": "2024-03-16T16:00:00Z"
+      },
+      {
+        "sender": "friend",
+        "message": "Thinking about it. You going?",
+        "time": "2024-03-16T16:02:00Z"
+      },
+      {
+        "sender": "user",
+        "message": "Yup, trying to stay consistent with my yoga practice. It helps me relax.",
+        "time": "2024-03-16T16:04:00Z"
+      },
+      {
+        "sender": "friend",
+        "message": "Nice, I should probably give it a more serious try. Heard it's good for the mind and body.",
+        "time": "2024-03-16T16:06:00Z"
+      },
+      {
+        "sender": "user",
+        "message": "Definitely. Let me know if you want to join. It could be fun doing it together.",
+        "time": "2024-03-16T16:08:00Z"
+      },
+      {
+        "sender": "friend",
+        "message": "Will do. Oh, have you seen the latest episode of 'Space Adventures'?",
+        "time": "2024-03-16T20:00:00Z"
+      },
+      {
+        "sender": "user",
+        "message": "Not yet. I've lost interest in it, to be honest. The plot seems to be going nowhere.",
+        "time": "2024-03-16T20:02:00Z"
+      },
+      {
+        "sender": "friend",
+        "message": "Really? I'm still hooked, haha. But I get what you mean.",
+        "time": "2024-03-16T20:04:00Z"
+      },
+      {
+        "sender": "user",
+        "message": "Yeah, I'm more into books these days. Speaking of which, have you tried that new coffee shop on Main Street?",
+        "time": "2024-03-17T09:00:00Z"
+      },
+      {
+        "sender": "friend",
+        "message": "Not yet, but I've heard good things. Their specialty coffees are supposed to be incredible.",
+        "time": "2024-03-17T09:02:00Z"
+      },
+      {
+        "sender": "user",
+        "message": "They are! Had the best cappuccino there. You should definitely try it.",
+        "time": "2024-03-17T09:04:00Z"
+      },
+      {
+        "sender": "friend",
+        "message": "Will do! Thanks for the suggestion. By the way, are we still on for the beach next month?",
+        "time": "2024-03-17T10:00:00Z"
+      },
+      {
+        "sender": "user",
+        "message": "Yes! Can't wait for some sun and sea. It's been too long.",
+        "time": "2024-03-17T10:02:00Z"
+      },
+      {
+        "sender": "friend",
+        "message": "Absolutely. It's going to be great to unwind and catch up properly.",
+        "time": "2024-03-17T10:05:00Z"
+      },
+      {
+        "sender": "user",
+        "message": "Definitely. Well, I need to run now. Talk later?",
+        "time": "2024-03-17T11:00:00Z"
+      },
+      {
+        "sender": "friend",
+        "message": "Sure, have a good one!",
+        "time": "2024-03-17T11:01:00Z"
+      },
+      {
+        "sender": "user",
+        "message": "Thanks, you too!",
+        "time": "2024-03-17T11:02:00Z"
+      }
+    ]
+  }
+  
